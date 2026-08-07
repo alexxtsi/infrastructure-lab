@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# SSH private keys
+id_rsa
+id_ed25519
+*_ed25519
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+tfplan
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Virtual machines
+*.vdi
+*.vmdk
+*.vbox
+*.ova
+*.ovf
+*.iso
+
+# Temporary files
+*.tmp
+*.bak
