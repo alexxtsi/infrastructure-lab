@@ -156,5 +156,31 @@ drwxr-x--- 5 atsigane atsigane  4096 Aug  7 23:21 .vscode-server
 
 drwxrwxr-x 2 atsigane atsigane  4096 Aug  7 13:53 python-baseline
 
-atsigane@ubuntu-admin:\~$
+
+
+\## Lab Completion
+
+
+
+Completed KodeKloud LFCS lab:
+
+\- Logging in and System Documentation
+
+
+
+Additional commands/concepts practiced:
+
+\- `apropos`
+
+\- `whatis`
+
+\- `man -k`
+
+\- manual sections
+
+\- `systemctl`
+
+\- `ss`
+
+\- basic SSH troubleshooting
 
